@@ -1,5 +1,7 @@
 ### Hi there 👋
 ## I am Vedesh Gawande
+- 🌱 I’m currently learning data structures and algorithms
+- 💬 Ask me about web development
 <!--
 **vedesh95/vedesh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
