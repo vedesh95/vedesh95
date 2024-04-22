@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Backend Development, AWS, Data Structures and Algorithms, System Design**
 
-- 📫 How to reach me **vedesh95@gmail.com**
+- 📫 How to reach me **vedeshgawande.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
